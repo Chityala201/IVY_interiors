@@ -1,0 +1,6 @@
+@IVY_Interiors.Server_HostAddress = http://localhost:5095
+
+GET {{IVY_Interiors.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

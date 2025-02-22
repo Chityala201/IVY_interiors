@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IVY_Interiors.Server.props" />
+</Project>

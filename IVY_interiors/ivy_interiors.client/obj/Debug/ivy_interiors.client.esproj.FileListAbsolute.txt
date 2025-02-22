@@ -1,0 +1,2 @@
+C:\Users\nares\OneDrive\Desktop\Apps\IVY_interiors\IVY_Interiors\ivy_interiors.client\obj\Debug\ivy_interiors.client.esproj.CoreCompileInputs.cache
+C:\Users\nares\OneDrive\Desktop\Apps\Naveen\IVY_interiors\ivy_interiors.client\obj\Debug\ivy_interiors.client.esproj.CoreCompileInputs.cache
